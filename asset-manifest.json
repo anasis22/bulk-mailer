@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bulk-mailer/static/css/main.436c567e.css",
-    "main.js": "/bulk-mailer/static/js/main.747fb38f.js",
+    "main.js": "/bulk-mailer/static/js/main.c06c8ce2.js",
     "static/js/787.33e69a64.chunk.js": "/bulk-mailer/static/js/787.33e69a64.chunk.js",
     "index.html": "/bulk-mailer/index.html",
     "main.436c567e.css.map": "/bulk-mailer/static/css/main.436c567e.css.map",
-    "main.747fb38f.js.map": "/bulk-mailer/static/js/main.747fb38f.js.map",
+    "main.c06c8ce2.js.map": "/bulk-mailer/static/js/main.c06c8ce2.js.map",
     "787.33e69a64.chunk.js.map": "/bulk-mailer/static/js/787.33e69a64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.436c567e.css",
-    "static/js/main.747fb38f.js"
+    "static/js/main.c06c8ce2.js"
   ]
 }
