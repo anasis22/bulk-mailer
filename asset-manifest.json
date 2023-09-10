@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.436c567e.css",
-    "main.js": "/static/js/main.3ee2f3ba.js",
-    "static/js/787.33e69a64.chunk.js": "/static/js/787.33e69a64.chunk.js",
-    "index.html": "/index.html",
-    "main.436c567e.css.map": "/static/css/main.436c567e.css.map",
-    "main.3ee2f3ba.js.map": "/static/js/main.3ee2f3ba.js.map",
-    "787.33e69a64.chunk.js.map": "/static/js/787.33e69a64.chunk.js.map"
+    "main.css": "/bulk-mailer/static/css/main.436c567e.css",
+    "main.js": "/bulk-mailer/static/js/main.747fb38f.js",
+    "static/js/787.33e69a64.chunk.js": "/bulk-mailer/static/js/787.33e69a64.chunk.js",
+    "index.html": "/bulk-mailer/index.html",
+    "main.436c567e.css.map": "/bulk-mailer/static/css/main.436c567e.css.map",
+    "main.747fb38f.js.map": "/bulk-mailer/static/js/main.747fb38f.js.map",
+    "787.33e69a64.chunk.js.map": "/bulk-mailer/static/js/787.33e69a64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.436c567e.css",
-    "static/js/main.3ee2f3ba.js"
+    "static/js/main.747fb38f.js"
   ]
 }
